@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\project\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\ASUS\Documents\project\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\ASUS\Documents\project\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\ASUS\Documents\project\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\project\StudentApp\StudentApp\obj\Debug\StudentApp.Form1.resources
+C:\Users\ASUS\Documents\project\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+C:\Users\ASUS\Documents\project\StudentApp\StudentApp\obj\Debug\StudentApp.studentInform.resources
+C:\Users\ASUS\Documents\project\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\project\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\ASUS\Documents\project\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
